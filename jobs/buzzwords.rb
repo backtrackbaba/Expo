@@ -1,4 +1,4 @@
-buzzwords = ['Engine Temperature', 'Engine RPM', 'Power O/P', 'Service Status']
+buzzwords = ['Grid', 'Battery', 'DG', 'System Voltage']
 buzzword_counts = Hash.new({ value: 0 })
 
 SCHEDULER.every '2s' do

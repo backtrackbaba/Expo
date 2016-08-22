@@ -1,0 +1,40 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"DG","value":2},{"label":"System Voltage","value":26},{"label":"Grid","value":19},{"label":"Battery","value":5}],"id":"buzzwords","updatedAt":1471833500}
+
+convergence: |+
+  data: {"points":[{"x":2753,"y":24},{"x":2754,"y":10},{"x":2755,"y":9},{"x":2756,"y":0},{"x":2757,"y":4},{"x":2758,"y":28},{"x":2759,"y":13},{"x":2760,"y":8},{"x":2761,"y":22},{"x":2762,"y":4}],"id":"convergence","updatedAt":1471833500}
+
+valuation: |+
+  data: {"current":19,"last":32,"id":"valuation","updatedAt":1471833500}
+
+karma: |+
+  data: {"current":54469,"last":109234,"id":"karma","updatedAt":1471833500}
+
+synergy: |+
+  data: {"value":15,"id":"synergy","updatedAt":1471833500}
+
+system: |+
+  data: {"items":[{"label":"System Voltage","value":25},{"label":"Outside Temperature","value":43},{"label":"Grid Power(W)","value":55},{"label":"Grid","value":51},{"label":"Panel Temperature","value":22},{"label":"DG","value":40},{"label":"Battery","value":25}],"id":"system","updatedAt":1471833501}
+
+battery: |+
+  data: {"items":[{"label":"Charge Status","value":92},{"label":"Charge Cycles","value":57},{"label":"Charge Duration(hrs)","value":75},{"label":"Battery Temperature","value":77}],"id":"battery","updatedAt":1471833501}
+
+generator: |+
+  data: {"items":[{"label":"Generator Load","value":94},{"label":"Frequency","value":2},{"label":"Generator Energy","value":84},{"label":"Run Time","value":93},{"label":"Voltage","value":87},{"label":"Engine Temperature","value":17},{"label":"Starter Battery Voltage","value":85},{"label":"Engine RPM","value":84},{"label":"Current","value":83},{"label":"Run Time since last service","value":6},{"label":"Operational Status","value":89},{"label":"Apparent Power","value":77}],"id":"generator","updatedAt":1471833501}
+
+customer1: |+
+  data: {"items":[{"label":"Total Load","value":39},{"label":"Total Power Consumption","value":83},{"label":"Total Current","value":79}],"id":"customer1","updatedAt":1471833501}
+
+customer2: |+
+  data: {"items":[{"label":"Total Power Consumption","value":85},{"label":"Total Current","value":41},{"label":"Total Load","value":75}],"id":"customer2","updatedAt":1471833501}
+
+fuel: |+
+  data: {"items":[{"label":"Total Fuel Consumption","value":72},{"label":"Remaining Fuel","value":29}],"id":"fuel","updatedAt":1471833501}
+
+rectifier: |+
+  data: {"items":[{"label":"Output Voltage","value":71},{"label":"Voltage Phase 1","value":87},{"label":"Power Load","value":94},{"label":"Output Rectifier Current","value":72},{"label":"Total Load Current","value":1},{"label":"Total rectifier Current","value":76}],"id":"rectifier","updatedAt":1471833501}
+
+iframeId1: |+
+  data: {"src":"www.youtube.com","id":"iframeId1","updatedAt":1471827928}
+
