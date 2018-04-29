@@ -1,1 +1,1 @@
-Check out http://shopify.github.com/dashing for more information.
+Remote Monitoring Dashboard for Automation Expo 2018
