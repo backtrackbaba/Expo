@@ -1,1 +1,1 @@
-Remote Monitoring Dashboard for Automation Expo 2018
+Check out http://smashing.github.io/smashing for more information.
